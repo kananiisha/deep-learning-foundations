@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Models (large files)
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
