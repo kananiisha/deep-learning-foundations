@@ -59,3 +59,4 @@ TensorFlow / Keras, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## Next
 
 `05-transformer-from-scratch` — replacing recurrence entirely with self-attention. Transformers process all tokens in parallel (no sequential hidden state), making them faster and better at capturing long-range dependencies.
+
