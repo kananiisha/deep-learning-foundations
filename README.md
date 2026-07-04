@@ -6,8 +6,8 @@ A progressive deep learning learning path — built from scratch, one architectu
 
 | # | Project | Architecture | Status |
 |---|---|---|---|
-| 01 | [ANN — MNIST Digit Classifier](./01-ann-mnist-digit-classifier/) | Fully Connected ANN | ✅ Complete |
-| 02 | CNN — Image Classifier | Convolutional Neural Network | 🔜 Next |
+| 01 | [ANN — MNIST Digit Classifier](./01-ann-mnist-digit-classifier/) | Fully Connected ANN | ✅ 97.86% |
+| 02 | [CNN — MNIST Digit Classifier](./02-cnn-image-classifier/) | Convolutional Neural Network | ✅ 99.14% |
 | 03 | RNN — Text Generation | Recurrent Neural Network | 📅 Planned |
 | 04 | LSTM — Sentiment Analysis | Long Short-Term Memory | 📅 Planned |
 | 05 | Transformer — From Scratch | Attention Mechanism | 📅 Planned |
