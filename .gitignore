@@ -14,3 +14,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+*.keras
+rnn_shakespeare_ckpt.keras

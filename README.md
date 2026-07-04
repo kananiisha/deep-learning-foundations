@@ -8,7 +8,7 @@ A progressive deep learning learning path — built from scratch, one architectu
 |---|---|---|---|
 | 01 | [ANN — MNIST Digit Classifier](./01-ann-mnist-digit-classifier/) | Fully Connected ANN | ✅ 97.86% |
 | 02 | [CNN — MNIST Digit Classifier](./02-cnn-image-classifier/) | Convolutional Neural Network | ✅ 99.14% |
-| 03 | RNN — Text Generation | Recurrent Neural Network | 📅 Planned |
+| 03 | [RNN — Shakespeare Text Generation](./03-rnn-text-generation/) | LSTM | ✅ Complete |
 | 04 | LSTM — Sentiment Analysis | Long Short-Term Memory | 📅 Planned |
 | 05 | Transformer — From Scratch | Attention Mechanism | 📅 Planned |
 | 06 | BERT — Text Classification | Fine-tuned Transformer | 📅 Planned |
