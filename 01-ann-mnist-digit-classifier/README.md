@@ -40,3 +40,4 @@ TensorFlow / Keras, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## Next
 
 `02-cnn-image-classifier` — same dataset, same task. Convolutional layers preserve spatial structure and scan the image with learned filters, hitting **99.14%** vs this ANN's **97.86%**.
+
