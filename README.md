@@ -11,7 +11,7 @@ A progressive deep learning learning path — built from scratch, one architectu
 | 03 | [RNN — Shakespeare Text Generation](./03-rnn-text-generation/) | LSTM | ✅ Complete |
 | 04 | [LSTM — Sentiment Analysis](./04-lstm-sentiment-analysis/) | LSTM | ✅ 85.03% |
 | 05 | [Transformer — Sentiment Analysis](./05-transformer-sentiment-analysis/) | Self-Attention | ✅ 87.57% |
-| 06 | BERT — Text Classification | Fine-tuned Transformer | 📅 Planned |
+| 06 | [BERT — Text Classification](./06-bert-text-classification/) | Fine-tuned Transformer | ✅ 86.90%* |
 
 ## Why this structure?
 
