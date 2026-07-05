@@ -8,8 +8,8 @@ A progressive deep learning learning path — built from scratch, one architectu
 |---|---|---|---|
 | 01 | [ANN — MNIST Digit Classifier](./01-ann-mnist-digit-classifier/) | Fully Connected ANN | ✅ 97.86% |
 | 02 | [CNN — MNIST Digit Classifier](./02-cnn-image-classifier/) | Convolutional Neural Network | ✅ 99.14% |
-| 03 | [RNN — Shakespeare Text Generation](./03-rnn-text-generation/) | LSTM | ✅ Complete |
-| 04 | [LSTM — Sentiment Analysis](./04-lstm-sentiment-analysis/) | LSTM | ✅ 85.03% |
+| 03 | [RNN — Shakespeare Text Generation](./03-rnn-text-generation/) | RNN (LSTM) | ✅ Complete |
+| 04 | [LSTM — Sentiment Analysis](./04-lstm-sentiment-analysis/) | LSTM (Classification) | ✅ 85.03% |
 | 05 | [Transformer — Sentiment Analysis](./05-transformer-sentiment-analysis/) | Self-Attention | ✅ 87.57% |
 | 06 | [BERT — Text Classification](./06-bert-text-classification/) | Fine-tuned Transformer | ✅ 86.90%* |
 
